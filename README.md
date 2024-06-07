@@ -24,9 +24,9 @@ I recently completed an extensive data analysis project for Vrinda Store, aimed 
 
   o	January: **Total Sales Amount:** 1,820,601, **Number of Orders:** 2,702
   
-  o	February: **Total Sales Amount:** 1,875,932,** Number of Orders:** 2,750
+  o	February: **Total Sales Amount:** 1,875,932, **Number of Orders:** 2,750
   
-  o	March: **Total Sales Amount:** 1,928,066,** Number of Orders:** 2,819
+  o	March: **Total Sales Amount:** 1,928,066, **Number of Orders:** 2,819
   
 **•	Gender-Based Analysis:**
 
